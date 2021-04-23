@@ -1,5 +1,5 @@
 #孙文韬的网络日记
-gaG
+gaG【名Sun5278qq.com】【密码。。。。。】【→md文件，→笔头】
 终于找到这个网站的编译位置了 找联系
 
 #TempConvert.py/
@@ -19,5 +19,7 @@ else:/
 1.早睡  冥想 
 2.扇贝单词1000  网易读书一小时
 
-The Pine Islands玛丽昂·波施曼Marion Poschmann
+The Pine Islands玛丽昂·波施曼Marion Poschma
+无论专八怎么样，都要全身心投入。一场平时的训练一样！
+//以后学了变成，就能更自如地改。
 
